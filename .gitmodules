@@ -1,6 +1,3 @@
-[submodule "skeleton/third_party/Michelangelo"]
-	path = skeleton/third_party/Michelangelo
-	url = https://github.com/ChaoyueSong/Michelangelo
 [submodule "animation/third_partys/ptlflow"]
 	path = animation/third_partys/ptlflow
 	url = https://github.com/ChaoyueSong/ptlflow
@@ -13,3 +10,6 @@
 [submodule "skinning/third_partys/PartField"]
 	path = skinning/third_partys/PartField
 	url = https://github.com/ChaoyueSong/PartField
+[submodule "skeleton/third_partys/Michelangelo"]
+	path = skeleton/third_partys/Michelangelo
+	url = https://github.com/ChaoyueSong/Michelangelo/
